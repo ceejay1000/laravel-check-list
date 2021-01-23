@@ -1,0 +1,2 @@
+- Use named routes most of the time
+- When you have so many routes that use the same controller use *resource
